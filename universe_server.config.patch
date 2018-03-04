@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/dreemurrers",
+		"value" : [
+		    "/ships/dreemurrers/dreemurrerst0.structure",
+			"/ships/dreemurrers/dreemurrerst1.structure",
+			"/ships/dreemurrers/dreemurrerst2.structure",
+			"/ships/dreemurrers/dreemurrerst3.structure",
+			"/ships/dreemurrers/dreemurrerst4.structure",
+			"/ships/dreemurrers/dreemurrerst5.structure",
+			"/ships/dreemurrers/dreemurrerst6.structure",
+			"/ships/dreemurrers/dreemurrerst7.structure",
+			"/ships/dreemurrers/dreemurrerst8.structure"
+		]
+	}
+]

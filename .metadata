@@ -1,0 +1,11 @@
+{
+  "tags" : "Species, Race",
+  "author" : "Frigadae, baa baa white goat, baa baa black goat",
+  "description" : "Adds the dreemurrers as a playable race to Starbound.",
+  "friendlyName" : "Dreemurrers Race",
+  "link" : "",
+  "name" : "Dreemurrers",
+  "path" : ".",
+  "steamContentId" : "",
+  "version" : "0.0.1"
+}

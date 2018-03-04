@@ -1,0 +1,39 @@
+[
+	{
+		"op": "add",
+		"path": "/attack/dreemurrer",
+		"value": {
+			"default": [
+				"They shall not pass!",
+				"You're dusted!",
+				"I am determined!",
+				"*Distressed bleating sounds*",
+				"Come and get some friendship pellets!",
+				"No mercy!"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/killedTarget/dreemurrer",
+		"value": {
+			"default": [
+				"I won.",
+				"All clear!",
+				"...",
+				"I hope I won't do this again."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/lostTarget/dreemurrer",
+		"value": {
+			"default": [
+				"Good grief!",
+				"They fled, hecking damn!"
+				"Don't come back!"
+			]
+		}
+	}
+]

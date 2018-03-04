@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/dreemurrers",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/dreemurrers",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

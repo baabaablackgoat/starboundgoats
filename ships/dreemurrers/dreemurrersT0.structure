@@ -1,0 +1,22 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : [],
+      "maxFuel" : 1000,
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "dreemurrersT0.png",
+      "position" : [0, -0.75],
+      "fullbright" : true
+    },
+    {
+      "image" : "dreemurrersT0lit.png",
+      "position" : [0, -0.75]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "dreemurrersT0blocks.png"
+}

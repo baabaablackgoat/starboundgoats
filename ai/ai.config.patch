@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/dreemurrers",
+		"value" : {
+			"aiFrames" : "dreemurrersAI.png",
+			"portraitFrames" : "portraits/dreemurrersportrait.png",
+			"staticFrames" : "staticdreemurrers.png"	
+		}
+	}
+]

@@ -1,0 +1,22 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "maxFuel" : 1000,
+      "crewSize" : 2
+    }
+  },
+  "backgroundOverlays" : [
+    {
+      "image" : "dreemurrersT3.png",
+      "position" : [0, -0.75],
+      "fullbright" : true
+    },
+    {
+      "image" : "dreemurrersT3lit.png",
+      "position" : [0, -0.75]
+    }
+  ],
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "dreemurrersT3blocks.png"
+}
