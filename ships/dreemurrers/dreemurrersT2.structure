@@ -1,7 +1,7 @@
 {
   "config" : {
     "shipUpgrades" : {
-      "capabilities" : ["teleport", "planetTravel"],
+      "capabilities" : [],
       "maxFuel" : 1000,
       "crewSize" : 2
     }
@@ -14,7 +14,7 @@
     },
     {
       "image" : "dreemurrersT2lit.png",
-      "position" : [0, -0.75],
+      "position" : [0, -0.75]
     }
   ],
   "blockKey" : "blockKey.config:blockKey",

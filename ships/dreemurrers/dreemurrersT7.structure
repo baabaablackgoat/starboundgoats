@@ -9,12 +9,12 @@
   "backgroundOverlays" : [
     {
       "image" : "dreemurrersT7.png",
-      "position" : [8.39, 3.875],
+      "position" : [-0.75,-0.875],
       "fullbright" : true
     },
     {
       "image" : "dreemurrersT7lit.png",
-      "position" : [8.39, 3.875]
+      "position" : [-0.75,-0.875]
     }
   ],
   "blockKey" : "blockKey.config:blockKey",
