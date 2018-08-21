@@ -5,3 +5,5 @@ Make sure all resource names that require naming like this: $RACE\_NAME$TEXTURE\
 I'm sorry for the plural
 
 hi honey <3
+
+test
