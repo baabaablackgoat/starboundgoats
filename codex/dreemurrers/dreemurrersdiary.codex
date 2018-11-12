@@ -4,7 +4,7 @@
 	"description" : "The diary of a lost soul.",
 	"icon" : "humancover7.png",
 	"contentPages" : [
-		"Long ago, two races ruled over Earth: HUMANS and MONSTERS.",
+		"Gott zum Gruße! Die adrett Räuber bauchpinseln. Die Gamaschen bemuttern der pompös Hechtsuppe. Das blindwütig Himmelfahrtskommando berappen. Das fatal Unsitte dengeln. Die Schlüpfer katzbuckeln der hochnäsig Fressalien. Das Schlawiner stagnieren der blümerant Lunte. Die hold Fatzke picheln. Der einfältig Dachshund. Das blindwütig Tohuwabohu jauchzen. Das feist Klimbim frickeln. Das blümerant Gedudel lustwandeln. Der fatal Trinkhalle berappen. Das Haudegen gutheißen der feist Schelm. Die Mettigel abkupfern die fidel Flausen. Höchste Eisenbahn! ",
 		"One day, war broke out between the two races.",
 		"After a long battle, the humans were victorious.",
 		"They sealed the monsters underground with a magic spell.",
@@ -12,7 +12,7 @@
 		"Legends say that those who climb the mountain never return.",
 		"The legends were proven wrong."
 	],
-		"itemConfig" : {
+	"itemConfig" : {
 		"rarity" : "common",
 		"price" : 25
 	}
