@@ -28,6 +28,9 @@
       { "item" : "ironbroadsword" },
       { "item" : "tungstenaxe" },
       { "item" : "tungstenhammer" },
+      { "item" : "chaosbustermini" },
+      { "item" : "Chaossabre" },
+      { "item" : "undynespear" },
 // Anvil2
       { "item" : "humantier3head" },
       { "item" : "humantier3chest" },
@@ -76,7 +79,15 @@
       { "item" : "dreemurrersoutfit3chest" },
       { "item" : "dreemurrersoutfit3legs" },
       { "item" : "dreemurrersoutfit4chest" },
-      { "item" : "dreemurrersoutfit4legs" }
+      { "item" : "dreemurrersoutfit4legs" },
+      { "item" : "dreemurrersoutfit5chest" },
+      { "item" : "dreemurrersoutfit5legs" },
+      { "item" : "dreemurrersoutfit6chest" },
+      { "item" : "dreemurrersoutfit6legs" },
+      { "item" : "dreemurrersoutfit7chest" },
+      { "item" : "dreemurrersoutfit7legs" },
+      { "item" : "dreemurrersoutfit8chest" },
+      { "item" : "dreemurrersoutfit8legs" }
 	  ]
   },
   
@@ -89,8 +100,8 @@
       "image" : "/interface/title/dreemurrersmaleico.png",
       "characterImage" : "/interface/title/dreemurrersmale.png",
       "hair" : [ "male1", "male2", "male3", "male4", "male5"],
-      "shirt" : [ "dreemurrersoutfit1chest", "dreemurrersoutfit2chest", "dreemurrersoutfit3chest", "dreemurrersoutfit4chest" ],
-      "pants" : [ "dreemurrersoutfit1legs", "dreemurrersoutfit2legs", "dreemurrersoutfit3legs", "dreemurrersoutfit4legs" ],
+      "shirt" : [ "dreemurrersoutfit1chest", "dreemurrersoutfit2chest", "dreemurrersoutfit3chest", "dreemurrersoutfit4chest","dreemurrersoutfit5chest","dreemurrersoutfit6chest","dreemurrersoutfit7chest","dreemurrersoutfit8chest" ],
+      "pants" : [ "dreemurrersoutfit1legs", "dreemurrersoutfit2legs", "dreemurrersoutfit3legs", "dreemurrersoutfit4legs","dreemurrersoutfit5legs","dreemurrersoutfit6legs","dreemurrersoutfit7legs","dreemurrersoutfit8legs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -101,8 +112,8 @@
       "image" : "/interface/title/dreemurrersfemico.png",
       "characterImage" : "/interface/title/dreemurrersfemale.png",
       "hair" : [ "fem1", "fem2", "fem3"],
-      "shirt" : [ "dreemurrersoutfit1chest", "dreemurrersoutfit2chest", "dreemurrersoutfit3chest", "dreemurrersoutfit4chest" ],
-      "pants" : [ "dreemurrersoutfit1legs", "dreemurrersoutfit2legs", "dreemurrersoutfit3legs", "dreemurrersoutfit4legs" ],
+      "shirt" : [ "dreemurrersoutfit1chest", "dreemurrersoutfit2chest", "dreemurrersoutfit3chest", "dreemurrersoutfit4chest", "dreemurrersoutfit5chest","dreemurrersoutfit6chest","dreemurrersoutfit7chest","dreemurrersoutfit8chest" ],
+      "pants" : [ "dreemurrersoutfit1legs", "dreemurrersoutfit2legs", "dreemurrersoutfit3legs", "dreemurrersoutfit4legs","dreemurrersoutfit5legs","dreemurrersoutfit6legs","dreemurrersoutfit7legs","dreemurrersoutfit8legs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
