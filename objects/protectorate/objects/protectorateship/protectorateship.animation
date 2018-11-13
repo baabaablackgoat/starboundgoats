@@ -1,6 +1,6 @@
 {
   "globalTagDefaults" : {
-    "species" : "sktest"
+    "species" : "dreemurrers"
   },
 
   "animatedParts" : {
@@ -8,7 +8,7 @@
       "ship" : {
         "properties" : {
           "centered" : false,
-          "image" : "protectorateship<species>.png"
+          "image" : "protectorateshipdreemurrers.png"
         }
       }
     }

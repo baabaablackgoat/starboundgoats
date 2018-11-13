@@ -4,6 +4,6 @@
     { "item" : "cottonwool", "count" : 2 }
   ],
   "duration" : 5,
-  "output" : { "item" : "sktestoutfit4chest", "count" : 1 },
+  "output" : { "item" : "dreemurrersoutfit4chest", "count" : 1 },
   "groups" : [ "craftingwheel", "clothes" ]
 }
