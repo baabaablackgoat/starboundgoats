@@ -1,7 +1,7 @@
 {
   "input" : [
     { "item" : "silverbar", "count" : 6 },
-    { "item" : "tungstenbar", "count" : 4 },
+    { "item" : "tungstenbar", "count" : 4 }
   ],
   "output" : { "item" : "Chaossabre", "count" : 1 },
   "groups" : [ "craftinganvil2", "weapons", "all" ]

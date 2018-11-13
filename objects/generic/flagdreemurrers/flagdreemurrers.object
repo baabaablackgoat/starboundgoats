@@ -8,16 +8,16 @@
   "price" : 70,
   "radioMessagesOnPickup" : [ "pickupflag" ],
 
-  "description" : "The Goat Person flag. It's Marked with the Delta Rune. Use ^green;[E]^white; to bookmark a teleportation location.",
-  "shortdescription" : "Goat Person Flag",
+  "description" : "The Dreemurrers flag. It's Marked with the Delta Rune. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Dreemurrers Flag",
   "race" : "dreemurrers",
 
-  "apexDescription" : "The Goat Person flag..cute.",
-  "avianDescription" : "The Goat Person flag is actually quite pretty.",
-  "floranDescription" : "Not Floran flag! Ssstab goat men with flagpole!",
+  "apexDescription" : "The Dreemurrers flag... cute.",
+  "avianDescription" : "The Dreemurrers flag is actually quite pretty.",
+  "floranDescription" : "Not Floran flag! Ssstab monsters with flagpole!",
   "glitchDescription" : "Statement. The simplistic beauty of the dreemurrers flag.",
-  "humanDescription" : "The symbol of the Goat people.",
-  "hylotlDescription" : "A calm Goat Person symbol for a quite noisy species.",
+  "humanDescription" : "The symbol of the Dreemurrers.",
+  "hylotlDescription" : "A calm Dreemurrers symbol for a quite noisy species.",
 
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/destinationonly.config",

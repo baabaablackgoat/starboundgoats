@@ -1,0 +1,17 @@
+{
+	"id" : "theexpedition3",
+	"title" : "The Expedition, Part III",
+	"description" : "A tattered notebook, bearing the Delta Rune on it's cover.",
+	"icon" : "dreemurrnotebook.png",
+	"contentPages" : [
+		"I still do not know if our overall despair was greater or lesser when our crew finally returned after two years. Their ship was overgrown with strange plants of distant worlds, and the crew members shambled out of the ship, looking torn between disbelief and resignation. One of the researchers explained that the reason their expedition took so long was, in a word, disbelief.",
+		"There was, in fact, no more Earth to signal or return to. There were only empty malformed chunks of what once may have been a planet floating where Earth should have been. The crew had spent one year recalculating their coordinates, and another year finding out whatever had happened to Earth, until one daring navigator decided to search through a human research station to look for evidence.",
+		"The evidence that the navigator brought back was not just what had happened to Earth, but all of human history up to that point. There was no explanation given for the destruction of the Earth. It made no mention of the monsters in any point during the history. Rather, it was everything else that indicated to us what may have happened to both of them.",
+		"The whole of human history, even after our exile, was still of constant warfare. Not merely wars of fear. Wars of greed, hatred, desperation, banal inconvenience. Once they were rid of us, their hatred and fear had turned towards each other, and the fighting continued. I wonder how humanity had not ended its sad existence much, much longer ago.",
+		"But what truly horrifies me is that humanity survives to create ever more terrible methods of (self-)destruction. It was swords and slings in the beginning, and what did they have by the end? Explosive devices that could end two million lives in one fiery blink. Airborne poisons that turn the victim’s insides into liquid. Projectiles engineered to completely tear apart a human’s body..."
+	],
+	"itemConfig" : {
+		"rarity" : "common",
+		"price" : 50
+	}
+}

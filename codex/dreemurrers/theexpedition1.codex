@@ -1,0 +1,16 @@
+{
+	"id" : "theexpedition1",
+	"title" : "The Expedition, Part I",
+	"description" : "A tattered notebook, bearing the Delta Rune on it's cover.",
+	"icon" : "dreemurrnotebook.png",
+	"contentPages" : [
+		"It is no secret among our kind that our relation to humans has, so far, been one of fear and enmity.\nAll of the historical records before our exile across the stars agree on this one fact: the humans began the war with the intention of eradicating our people entirely.",
+		"Until recently, it was fashionable to doubt the accuracy of these historical records as exaggerations of a mythological kind.\nFiguring that no society could embody such cruelty and not disintegrate into a brutish disorder, the hope for a new peace between the humans and us seemed very possible to us.",
+		"When the first of us flew back into the stars in search of our lost history, we found that the humans had also extended their presence to space.\nWe kept hidden, wary of the potential of human violence. But from the evidence that our explorers had found, it seemed that the humans had forgotten all about us, and were on the whole, not the brutes that we had made them out to be.",
+		"At first, we were excited that this could mean that the old dust could be swept aside to give way to a new friendship. We were almost ready to greet the humans and establish relations, until one of us asked:\n\"If the humans have forgotten all about us, what would it mean for all the monsters that were left behind on Earth?\""
+	],
+	"itemConfig" : {
+		"rarity" : "common",
+		"price" : 50
+	}
+}

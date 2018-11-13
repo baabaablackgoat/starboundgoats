@@ -2,8 +2,8 @@
   "input" : [
     { "item" : "ironbar", "count" : 2 },
     { "item" : "tungstenbar", "count" : 4 },
-    { "item" : "orangedye", "count" : 1 }
-    { "item" : "bluedye", "count" : 3 }
+    { "item" : "orangedye", "count" : 1 },
+    { "item" : "bluedye", "count" : 3 },
     { "item" : "glass", "count" : 4 }
   ],
   "output" : { "item" : "dreemurrersswordT2", "count" : 1 },
