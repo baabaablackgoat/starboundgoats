@@ -1,0 +1,46 @@
+{
+  "type" : "dreemurrersguard",
+  "baseType" : "friendlyguardtenant",
+
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "dreemurrers" : {
+          "default" : [
+            "Howdy.",
+            "Hello.",
+            "Howdy!",
+            "Greetings.",
+            "Oi!",
+            "What is your favorite kind of tea?",
+            "I don't resitate if it is someone hurting you.",
+            "I miss earth...",
+            "It is nice to meet you."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "dreemurrerstier4head" }
+            ],
+            "chest" : [
+              { "name" : "dreemurrerstier4chest" }
+            ],
+            "legs" : [
+              { "name" : "dreemurrerstier4pants" }
+           ],
+            "primary" : [
+              "dreemurrerssword"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

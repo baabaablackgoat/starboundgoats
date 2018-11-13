@@ -1,0 +1,35 @@
+{
+  "type" : "dreemurrerstenant",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "dreemurrers" : {
+          "default" : [
+            "Howdy.",
+            "Hello.",
+            "Howdy!",
+            "It is a beautiful day today."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "dreemurrersoutfit3chest" }
+            ],
+            "legs" : [
+              { "name" : "dreemurrersoutfit3legs", "parameters" : { "colorIndex" : 1 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

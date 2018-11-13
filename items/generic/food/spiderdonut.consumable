@@ -1,0 +1,23 @@
+{
+  "itemName" : "spiderdonut",
+  "rarity" : "Uncommon",
+  "price" : 1800,
+  "category" : "preparedFood",
+  "inventoryIcon" : "spiderdonut.png",
+  "description" : "Made by spiders, For spiders, Of spiders!",
+  "shortdescription" : "Spider Donut",
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 630
+    }
+  ] ],
+  "foodValue" : 100,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "rottingMultiplier" : 0.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

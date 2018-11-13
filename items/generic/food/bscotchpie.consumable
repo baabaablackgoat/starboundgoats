@@ -1,0 +1,23 @@
+{
+  "itemName" : "bscotchpie",
+  "rarity" : "Uncommon",
+  "price" : 2000,
+  "category" : "preparedFood",
+  "inventoryIcon" : "bscotchpie.png",
+  "description" : "A lovely smelling pie!",
+  "shortdescription" : "Butterscotch Cinnimon Pie",
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 630
+    }
+  ] ],
+  "foodValue" : 100,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1000,
+  "rottingMultiplier" : 0.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}
