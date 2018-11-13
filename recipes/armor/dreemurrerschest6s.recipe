@@ -1,0 +1,9 @@
+{
+	"input" : [
+		{ "item" : "solariumstar", "count" : 20 },
+		{ "item" : "dreemurrerstier5schest", "count" : 1 }
+	],
+	"duration" : 5,
+	"output" : { "item" : "dreemurrerstier6schest", "count" : 1 },
+	"groups" : [ "craftingseparator", "armours", "all" ]
+}

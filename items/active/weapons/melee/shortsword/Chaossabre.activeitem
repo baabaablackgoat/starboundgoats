@@ -1,0 +1,35 @@
+{
+  "itemName" : "Chaossabre",
+  "price" : 1000,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "I think this is summoned by determination, or something.",
+  "shortdescription" : "Chaos saber",
+  "tooltipKind" : "sword",
+  "category" : "shortsword",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","melee","shortsword"],
+
+  "inventoryIcon" : "Chaossabre.png",
+
+  "animation" : "/items/active/weapons/melee/shortsword/comboshortsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "Chaossabre.png"
+  },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "electric",
+
+  "primaryAbilityType" : "shortswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.3,
+    "baseDps" : 275
+  },
+
+  "altAbilityType" : "N/A",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

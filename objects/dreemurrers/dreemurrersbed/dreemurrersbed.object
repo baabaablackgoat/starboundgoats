@@ -1,0 +1,46 @@
+{
+  "objectName" : "dreemurrersbed",
+  "colonyTags" : ["dreemurrers"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A fancy grey wooden bed.",
+  "shortdescription" : "Monster bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 45,
+
+  "apexDescription" : "Monsters appears to love ",
+  "avianDescription" : "A wooden frame and a comfortable mattress. What more could you need?",
+  "floranDescription" : "Floran rarely ssleep in ssuch nice bed.",
+  "glitchDescription" : "Drowsy. My power levels are low. This bed looks inviting.",
+  "humanDescription" : "Looks a little royal to me, but still, confy and GREY.",
+  "hylotlDescription" : "A good place to close one's eyes.",
+  "novakidDescription" : "Good ol' grey bed.",
+
+  "inventoryIcon" : "dreemurrersbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "dreemurrersbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/dreemurrers/dreemurrersbed/dreemurrersbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

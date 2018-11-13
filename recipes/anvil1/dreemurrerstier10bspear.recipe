@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "refinedviolium", "count" : 20 },
+    { "item" : "solariumstar", "count" :  10},	
+    { "item" : "reddye", "count" :  10}
+  ],
+  "output" : { "item" : "dreemurrerstier10bspear", "count" : 1 },
+  "groups" : [ "craftingseparator", "weapons", "all" ]
+}

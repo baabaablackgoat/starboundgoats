@@ -1,35 +1,35 @@
 {
-  "itemName" : "dreemurrerssword",
-  "price" : 500,
+  "itemName" : "Chaossabre2",
+  "price" : 1000,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A Random Sword you found somewhere....",
-  "shortdescription" : "dreemurrers Sword",
+  "description" : "Determination or something.",
+  "shortdescription" : "Chaos Saber 2",
   "tooltipKind" : "sword",
   "category" : "broadsword",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","broadsword"],
 
-  "inventoryIcon" : "dreemurrerssword.png",
+  "inventoryIcon" : "Chaossabre2.png",
 
   "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
   "animationParts" : {
     "handle" : "",
-    "blade" : "dreemurrerssword.png"
+    "blade" : "Chaossabre2.png"
   },
   "animationCustom" : { },
 
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
 
-  "elementalType" : "physical",
+  "elementalType" : "electric",
 
   "primaryAbilityType" : "broadswordcombo",
   "primaryAbility" : {
-    "fireTime" : 0.89,
-    "baseDps" : 7
+    "fireTime" : 0.7,
+    "baseDps" : 350
   },
 
-  "altAbilityType" : "downstab",
+  "altAbilityType" : "superspinslash",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }

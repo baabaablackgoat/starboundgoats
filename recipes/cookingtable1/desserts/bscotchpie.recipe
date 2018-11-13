@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 5 },
+    { "item" : "milk", "count" : 1 },
+    { "item" : "egg", "count" : 1 }
+  ],
+  "output" : { "item" : "bscotchpie", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ]
+}

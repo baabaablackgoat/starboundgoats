@@ -1,21 +1,21 @@
 {
-  "itemName" : "dreemurrerssword",
-  "price" : 500,
+  "itemName" : "dreemurrersswordT2",
+  "price" : 1000,
   "maxStack" : 1,
   "rarity" : "Common",
-  "description" : "A Random Sword you found somewhere....",
-  "shortdescription" : "dreemurrers Sword",
+  "description" : "I've upgraded that random sword...",
+  "shortdescription" : "dreemurrers Sword T2",
   "tooltipKind" : "sword",
   "category" : "broadsword",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","broadsword"],
 
-  "inventoryIcon" : "dreemurrerssword.png",
+  "inventoryIcon" : "dreemurrersswordT2.png",
 
   "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
   "animationParts" : {
     "handle" : "",
-    "blade" : "dreemurrerssword.png"
+    "blade" : "dreemurrersswordT2.png"
   },
   "animationCustom" : { },
 
@@ -25,11 +25,11 @@
 
   "primaryAbilityType" : "broadswordcombo",
   "primaryAbility" : {
-    "fireTime" : 0.89,
-    "baseDps" : 7
+    "fireTime" : 0.5,
+    "baseDps" : 30
   },
 
-  "altAbilityType" : "downstab",
+  "altAbilityType" : "superspinslash",
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }
