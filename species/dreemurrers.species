@@ -79,15 +79,7 @@
       { "item" : "dreemurrersoutfit3chest" },
       { "item" : "dreemurrersoutfit3legs" },
       { "item" : "dreemurrersoutfit4chest" },
-      { "item" : "dreemurrersoutfit4legs" },
-      { "item" : "dreemurrersoutfit5chest" },
-      { "item" : "dreemurrersoutfit5legs" },
-      { "item" : "dreemurrersoutfit6chest" },
-      { "item" : "dreemurrersoutfit6legs" },
-      { "item" : "dreemurrersoutfit7chest" },
-      { "item" : "dreemurrersoutfit7legs" },
-      { "item" : "dreemurrersoutfit8chest" },
-      { "item" : "dreemurrersoutfit8legs" }
+      { "item" : "dreemurrersoutfit4legs" }
 	  ]
   },
   
@@ -100,8 +92,8 @@
       "image" : "/interface/title/dreemurrersmaleico.png",
       "characterImage" : "/interface/title/dreemurrersmale.png",
       "hair" : [ "male1", "male2", "male3", "male4", "male5"],
-      "shirt" : [ "dreemurrersoutfit1chest", "dreemurrersoutfit2chest", "dreemurrersoutfit3chest", "dreemurrersoutfit4chest","dreemurrersoutfit5chest","dreemurrersoutfit6chest","dreemurrersoutfit7chest","dreemurrersoutfit8chest" ],
-      "pants" : [ "dreemurrersoutfit1legs", "dreemurrersoutfit2legs", "dreemurrersoutfit3legs", "dreemurrersoutfit4legs","dreemurrersoutfit5legs","dreemurrersoutfit6legs","dreemurrersoutfit7legs","dreemurrersoutfit8legs" ],
+      "shirt" : [ "dreemurrersoutfit1chest", "dreemurrersoutfit2chest", "dreemurrersoutfit3chest", "dreemurrersoutfit4chest", "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "hoodiechest", "hoodiechest2", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "dreemurrersoutfit1legs", "dreemurrersoutfit2legs", "dreemurrersoutfit3legs", "dreemurrersoutfit4legs", "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs", "jeans1legs", "jeans2legs", "jeans3legs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
@@ -112,8 +104,8 @@
       "image" : "/interface/title/dreemurrersfemico.png",
       "characterImage" : "/interface/title/dreemurrersfemale.png",
       "hair" : [ "fem1", "fem2", "fem3"],
-      "shirt" : [ "dreemurrersoutfit1chest", "dreemurrersoutfit2chest", "dreemurrersoutfit3chest", "dreemurrersoutfit4chest", "dreemurrersoutfit5chest","dreemurrersoutfit6chest","dreemurrersoutfit7chest","dreemurrersoutfit8chest" ],
-      "pants" : [ "dreemurrersoutfit1legs", "dreemurrersoutfit2legs", "dreemurrersoutfit3legs", "dreemurrersoutfit4legs","dreemurrersoutfit5legs","dreemurrersoutfit6legs","dreemurrersoutfit7legs","dreemurrersoutfit8legs" ],
+      "shirt" : [ "dreemurrersoutfit1chest", "dreemurrersoutfit2chest", "dreemurrersoutfit3chest", "dreemurrersoutfit4chest", "workoutchest", "coolchest", "conceptchest", "sweatervestchest", "hoodiechest", "hoodiechest2", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "dreemurrersoutfit1legs", "dreemurrersoutfit2legs", "dreemurrersoutfit3legs", "dreemurrersoutfit4legs", "workoutlegs", "coollegs", "conceptlegs", "sweatervestlegs", "jeans1legs", "jeans2legs", "jeans3legs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
       "facialMaskGroup" : "",
