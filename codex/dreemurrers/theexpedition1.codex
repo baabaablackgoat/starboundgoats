@@ -2,7 +2,7 @@
 	"id" : "theexpedition1",
 	"title" : "The Expedition, Part I",
 	"description" : "A tattered notebook, bearing the Delta Rune on it's cover.",
-	"icon" : "dreemurrnotebook.png",
+	"icon" : "dreemurrercover1.png",
 	"contentPages" : [
 		"It is no secret among our kind that our relation to humans has, so far, been one of fear and enmity.\nAll of the historical records before our exile across the stars agree on this one fact: the humans began the war with the intention of eradicating our people entirely.",
 		"Until recently, it was fashionable to doubt the accuracy of these historical records as exaggerations of a mythological kind.\nFiguring that no society could embody such cruelty and not disintegrate into a brutish disorder, the hope for a new peace between the humans and us seemed very possible to us.",

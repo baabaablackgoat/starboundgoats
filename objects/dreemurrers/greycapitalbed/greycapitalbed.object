@@ -1,0 +1,46 @@
+{
+  "objectName" : "greycapitalbed",
+  "colonyTags" : ["dreemurrers"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "Worthy of a bossmonsters rest.",
+  "shortdescription" : "Grey Capital bed",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 45,
+
+  "apexDescription" : "This bed looks like it's an amazing place to rest on and relive memories.",
+  "avianDescription" : "I don't know why, but this bed is making me feel emotional.",
+  "floranDescription" : "Floran jealoussss. So comfy.",
+  "glitchDescription" : "Drowsy. My power levels are low. This bed looks inviting.",
+  "humanDescription" : "I feel like I've seen a bed like this in my history books!",
+  "hylotlDescription" : "A good place to close one's eyes.",
+  "novakidDescription" : "Good ol' big ol' grey bed.",
+
+  "inventoryIcon" : "greycapitalbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "greycapitalbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/dreemurrers/greycapitalbed/greycapitalbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

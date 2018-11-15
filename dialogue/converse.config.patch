@@ -1,0 +1,150 @@
+[
+	{
+		"op": "add",
+		"path": "/greeting/dreemurrer",
+		"value": {
+			"default" : [
+				"Howdy!"
+				"Greetings."
+				"How do you do?"
+			],
+			"avian" : [
+				"Howdy there! feathery bird!"
+				"Cheerful day huh?"
+			],
+			"floran" : [
+				"Howdy there! Plant person!",
+				"Please don't hurt me."
+			],
+			"human" : [
+				"Howdy there!"
+				"Greetings... human"
+			],
+			"hylotl" : [
+				"Hello, Hylotl",
+
+				"Hello sir.",
+				"Master Hylotl."
+			],
+			"novakid" : [
+				"Yee Haw!",
+				"You remind me of someone..."
+				"Howdy, glowing starstuff."
+			],
+			"avali" : [
+				"Howdy, feathered bird."
+				"Ah, it's a pleasure to meet you."
+			],
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/dreemurrer",
+		"value": {
+			"default" : [
+				"",
+			],
+			"apex" : [
+				"My mother said to me, "the struggle is long, but hope is longer." You'll be fine.",
+				"I've always wanted to know... how far does Big Ape see?",
+				"How are things holding up for you?"
+			],
+			"avian" : [
+				"Our religion? We just believe and hope in an angel to guide us.",
+				"",
+				"I don't have the slightest clue of this prophecy you are talking about."
+			],
+			"floran" : [
+				"Hunter.",
+				"Good hunt to you, plant friend.",
+				"Mind your step, plant friend."
+			],
+			"human" : [
+				"Excuse me. I keep hearing about this prophecy one of your humans wrote. Can you tell us what it's about?",
+				"We're... not as determined as you are.",
+				"Please don't hurt me."
+			],
+			"hylotl" : [
+				"Master Hylotl.",
+				"You remind me of some folks from our history books... it's been a long time though",
+				"We're actually being very sarcastic towards you."
+			],
+			"novakid" : [
+				"How's it glowin', starman?",
+				"What's a star? Can you touch it? Can you eat it? Can you kill it? Are you a star?",
+				"Is this town big enough for both of us?"
+			],
+			"dreemurrer" : [
+				"Do you have time for tea? We should sit down and rest for a while."
+			],
+			"avali" : [
+				"I haven't seen you around before.",
+				"Howdy! I remember your kind assisting our engineers sometime ago to master interstellar navigation.",
+				"I don't understand why the Humans call you turkey. You're quite fluffy and cute."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/apex/dreemurrer",
+		"value": [
+			"You... the universe is full of surprises.",
+			"Your logic of adding planes and propellers to your spaceships disturbs me.",
+			"Do you have any books of value we can trade? Your specie's theories on the universal forces interests me greatly.",
+			"You folks are an interesting bunch."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/avian/dreemurrer",
+		"value": [
+			"Do you think the angel in the delta rune is Kluex?",
+			"I heard the Humans wrote a prophecy about your people, what did you think of it?",
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/floran/dreemurrer",
+		"value": [
+
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/glitch/dreemurrer",
+		"value": [
+			"Curious. Please explain this unit named 'Mettaton' in the prophecy of your people."
+			""
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/human/dreemurrer",
+		"value": [
+			"Can I boop your snoot? Pretty please?",
+			"You're so fluffy!",
+			"Wait so... you're not actually an alien?",
+			"I wonder why my kind's ancestors fought against yours. You folks are so cute!",
+			"May I feel your ears?",
+			"Your history books say that you folks are originally from Earth. Does that mean we're long lost cousins?",
+			"I see your technology is based on our 20th century society. Very interesting I must say.",
+			"prophecy? Toby? I'm sorry I don't know what you're talking about."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/hylotl/dreemurrer",
+		"value": [
+			"I appreciate your admiration for us, but you don't have to observe what we do down to the very atoms.",
+			"I say with a puffed chest that us Hylotls are at the forefront of culture and science!",
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/novakid/dreemurrer",
+		"value": [
+			"Yee Haw"
+			
+		]
+	}
+]

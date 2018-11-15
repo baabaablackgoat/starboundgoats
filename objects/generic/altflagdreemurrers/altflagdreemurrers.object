@@ -1,5 +1,5 @@
 {
-  "objectName" : "flagdreemurrers",
+  "objectName" : "altflagdreemurrers",
   "colonyTags" : ["dreemurrers"],
   "printable" : false,
   "rarity" : "Common",
@@ -8,8 +8,8 @@
   "price" : 70,
   "radioMessagesOnPickup" : [ "pickupflag" ],
 
-  "description" : "The Dreemurrers flag. It's marked with the Delta Rune. Use ^green;[E]^white; to bookmark a teleportation location.",
-  "shortdescription" : "Dreemurrers Flag",
+  "description" : "The Boss Monsters' Tricolore. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Boss Monsters' Tricolore",
   "race" : "dreemurrers",
 
   "apexDescription" : "The Dreemurrers flag... cute.",
@@ -22,10 +22,10 @@
   "interactAction" : "OpenTeleportDialog",
   "interactData" : "/interface/warping/destinationonly.config",
 
-  "inventoryIcon" : "flagdreemurrersicon.png",
+  "inventoryIcon" : "altflagdreemurrersicon.png",
   "orientations" : [
     {
-      "image" : "flagdreemurrers.png:<color>.<frame>",
+      "image" : "altflagdreemurrers.png:<color>.<frame>",
       "flipImages" : true,
       "direction" : "left",
       "imagePosition" : [-17, 0],
@@ -36,7 +36,7 @@
       "anchors" : [ "bottom" ]
     },
     {
-      "image" : "flagdreemurrers.png:<color>.<frame>",
+      "image" : "altflagdreemurrers.png:<color>.<frame>",
       "direction" : "right",
       "imagePosition" : [1, 0],
       "frames" : 6,

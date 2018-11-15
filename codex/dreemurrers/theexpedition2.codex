@@ -2,7 +2,7 @@
 	"id" : "theexpedition2",
 	"title" : "The Expedition, Part II",
 	"description" : "A tattered notebook, bearing the Delta Rune on it's cover.",
-	"icon" : "dreemurrnotebook.png",
+	"icon" : "dreemurrercover2.png",
 	"contentPages" : [
 		"Still clinging to hope, we started an expedition that would bring back conclusive evidence of the fate of monsterkind on Earth. Assembling a team of researchers and navigators, we placed them on a ship equipped with a prototype FTL engine and sent them across a vast ocean of worlds.",
 		"Their objective was to find Earth, and find out whatever happened to the Dreemurr dynasty and its subjects. Drawing from our vast historical records, we thought this would be a simple task of simply working out the coordinates of Earth and then scanning what was historically monster territory on Earth.",
