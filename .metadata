@@ -1,12 +1,33 @@
 {
   "author" : "Frigadae, Pie~, baa baa white goat, baa baa black goat",
-  "description" : "Adds the Dreemurrers (Undertale/Deltarune Goat Bossmonsters) as a playable race to Starbound.\nCurrently heavily Work in Progress. Missing a few textures (you'll notice first with the Sword), and missing Codexes.\nWe currently have implemented the player textures and new tiered ships.\n\nIf you encounter a bug, please, if you can, provide a crash log, or a detailed explanation of what you have done.\nYou can find the crashlog in your steamapps\\common\\Starbound\\storage\\starbound.log.\nWe're somewhat new to Starbound modding, we need all the help we can get.\nThank you.",
+  "description" : "[b]WARNING! This mod is under serious development. If you encounter a bug, please, let us know right away so we can fix it. Thank you so much![/b]
+
+[b]To use any custom race, you need to install mods that extend your species selection screen.[/b]
+One example of a fitting mod would be [url=https://steamcommunity.com/sharedfiles/filedetails/?id=729426722]Xbawks Character Extender.[/url]
+  
+The most recent patch of this SHOULD be stable, I wasn't able to reproduce any earlier issues anymore.
+  
+Adds the Dreemurrers (Undertale/Deltarune Goat Bossmonsters) as a playable race to Starbound.
+Currently heavily Work in Progress. Missing a few textures (you'll notice first with the Sword), and missing Codexes.
+We currently have implemented the player textures and new tiered ships.
+  
+Seriously, expect this mod to be buggy.
+  
+If you encounter a bug, please, if you can, provide a crash log, or a detailed explanation of what you have done.
+You can find the crashlog in your steamapps\\common\\Starbound\\storage\\starbound.log.
+  
+We're somewhat new to Starbound modding, we need all the help we can get.
+Thank you.
+  
+also, I added a very bodgy discord server where you can help me with this very bodgy mod like add bug reports and stuff
+https://discord.gg/8Dptsvv
+  ",
   "friendlyName" : "[WIP] Bossmonsters Species/Race",
   "link" : "steam://url/CommunityFilePage/1563090801",
   "name" : "Boss Monsters / Dreemurrers",
   "path" : ".",
   "steamContentId" : "1563090801",
   "tags" : "Ships|Species",
-  "version" : "0.0.4a"
+  "version" : "0.0.5"
   //"requires" : ["Xbawks Character Extender"]
 }
