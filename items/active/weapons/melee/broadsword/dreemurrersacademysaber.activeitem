@@ -1,0 +1,35 @@
+{
+  "itemName" : "dreemurrersacademysaber",
+  "price" : 1000,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "The weapon of choice during your times in Academy.",
+  "shortdescription" : "Academy Saber",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+
+  "inventoryIcon" : "dreemurrersacademysaber.png",
+
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "dreemurrersacademysaber.png"
+  },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "fire",
+
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.6,
+    "baseDps" : 25
+  },
+
+  "altAbilityType" : "superspinslash",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}
