@@ -1,40 +1,17 @@
 {
-	"itemName" : "dreemurrerstier1head",
-	"inventoryIcon" : "icons.png:head",
+	"itemName" : "dreemurrersshiftedscarf",
+	"inventoryIcon" : "icons.png",
 	"maxStack" : 1,
-	"price" : 480,
+	"price" : 1000,
 	"rarity" : "Common",
-	"description" : "Finally a way to avert some of those snootleboops.",
-	"shortdescription" : "Goat T1 Head",
+	"description" : "It's filled with the hopes and dreams of monster kind.",
+	"shortdescription" : "The Shifted Scarf",
 	"tooltipKind" : "armor",
 	"category" : "headarmour",
 	"maleFrames" : "head.png",
 	"femaleFrames" : "head.png",
 	"mask" : "mask.png",
 	"level" : 1,
-	"leveledStatusEffects" : [
-		{
-			"levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
-			"stat" : "powerMultiplier",
-			"baseMultiplier" : 1.15
-		},
-		{
-			"levelFunction" : "standardArmorLevelProtectionMultiplier",
-			"stat" : "protection",
-			"amount" : 0.3
-		},
-		{
-			"levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
-			"stat" : "maxEnergy",
-			"amount" : 3
-		},
-		{
-			"levelFunction" : "standardArmorLevelMaxHealthMultiplier",
-			"stat" : "maxHealth",
-			"amount" : 3
-		}
-	],
-	"itemTags" : [ "tier1armour" ],
 	"colorOptions" : [
 		{ "ffca8a" : "a2bcc8", "e0975c" : "608ca0", "a85636" : "405d6a", "6f2919" : "24333a" }, //gray
 		{ "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" }, //black

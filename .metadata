@@ -7,6 +7,6 @@
   "path" : ".",
   "steamContentId" : "1563090801",
   "tags" : "Ships|Species",
-  "version" : "0.0.4a",
-  "requires" : ["Xbawks Character Extender"]
+  "version" : "0.0.4a"
+  //"requires" : ["Xbawks Character Extender"]
 }
