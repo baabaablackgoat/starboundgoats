@@ -51,19 +51,22 @@
   "chatPortrait" : "/ai/portraits/dreemurrersportrait.png:yell.1",
   "dialog" : {
     "wakeUp" : [
-      [ "Rebooting...", "/ai/portraits/dreemurrersportrait.png:unique.1" ],
-      [ "Howdy! I'm A.S.R.I.E.L, your Artificial Ship-based Reconstructed Intelligent Earth Lifeform. I'm the one responsible for taking care of your ship!",       "/ai/portraits/dreemurrersportrait.png:talk.0" ],
-      [ "I also know a few things about this world, so feel free to ask me when you need help!", "/ai/portraits/dreemurrersportrait.png:talk.1" ],
-      [ "When you launched last, though, some of my circuits were fried, and I lost memory of why we departed...", "/ai/portraits/dreemurrersportrait.png:talk.0" ],
-      [ "Not just that, our navigation is down, too. I don't know where we are right now. I'm sorry...", "/ai/portraits/dreemurrersportrait.png:talk.1" ]
+      [ "Oh, you're still okay! That's such a relief...", "/ai/portraits/dreemurrersportrait.png:talk.1" ],
+      [ "Howdy! I'm ASRIEL, but just call me Azzy!", "/ai/portraits/dreemurrersportrait.png:talk.0" ],
+      [ "I'm the one responsible for taking care of your ship!" , "/ai/portraits/dreemurrersportrait.png:talk.1"],
+      [ "I also know a few things about this world, so feel free to ask me anything!", "/ai/portraits/dreemurrersportrait.png:talk.0" ],
+      [ "When you launched last, though, some of our ship's circuits were fried... ", "/ai/portraits/dreemurrersportrait.png:yell.1" ],
+      [ "So, um, I don't know why we had to leave.", "/ai/portraits/dreemurrersportrait.png:yell.0"],
+      [ "Not just that, our navigation is down, too.", "/ai/portraits/dreemurrersportrait.png:yell.0" ],
+      [ "I don't know where we are right now. I'm sorry...", "/ai/portraits/dreemurrersportrait.png:yell.0"]
     ],
     "wakePlayer" : [
-      [ "W-where am I?", "/ai/portraits/dreemurrersportrait.png:unique.1"],
-      [ "Someone, please, help me!", "/ai/portraits/dreemurrersportrait.png:unique.1"],
-      [ "It's so dark...", "/ai/portraits/dreemurrersportrait.png:unique.1"],
-      [ "Can somebody hear me?", "/ai/portraits/dreemurrersportrait.png:unique.1" ],
-      [ "I-I'm so alone...", "/ai/portraits/dreemurrersportrait.png:unique.1"],
-      [ "I-I'm so afraid...", "/ai/portraits/dreemurrersportrait.png:unique.1" ]
+      [ "W-where am I?", "/ai/portraits/dreemurrersportrait.png:yell.0"],
+      [ "Someone, please, help me!", "/ai/portraits/dreemurrersportrait.png:yell.1"],
+      [ "It's so dark...", "/ai/portraits/dreemurrersportrait.png:yell.0"],
+      [ "Can somebody hear me?", "/ai/portraits/dreemurrersportrait.png:yell.1" ],
+      [ "I-I'm so alone...", "/ai/portraits/dreemurrersportrait.png:yell.0"],
+      [ "I-I'm so afraid...", "/ai/portraits/dreemurrersportrait.png:yell.0" ]
     ]
   },
 
