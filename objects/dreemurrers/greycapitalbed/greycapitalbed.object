@@ -11,11 +11,12 @@
 
   "apexDescription" : "This bed looks like it's an amazing place to rest on and relive memories.",
   "avianDescription" : "I don't know why, but this bed is making me feel emotional.",
-  "floranDescription" : "Floran jealoussss. So comfy.",
+  "floranDescription" : "Floran jealoussss. Sssso comfy.",
   "glitchDescription" : "Drowsy. My power levels are low. This bed looks inviting.",
   "humanDescription" : "I feel like I've seen a bed like this in my history books!",
   "hylotlDescription" : "A good place to close one's eyes.",
   "novakidDescription" : "Good ol' big ol' grey bed.",
+  "dreemurrersDescription" : "A comfy bed, mimicking the silly furniture choices of our king.",
 
   "inventoryIcon" : "greycapitalbedicon.png",
   "orientations" : [

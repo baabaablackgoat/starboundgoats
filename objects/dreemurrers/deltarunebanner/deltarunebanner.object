@@ -1,0 +1,37 @@
+{
+    "objectName" : "deltarunebanner",
+    "colonyTags" : ["dreemurrers","pretty"],
+    "rarity" : "Common",
+    "description" : "A banner bearing the delta rune, made of the finest silk.",
+    "shortdescription" : "Deltarune Banner",
+    "race" : "dreemurrers",
+    "category" : "decorative",
+    "price" : 80,
+  
+    "apexDescription" : "A banner with the logo symbolizing peace and prosperity.",
+    "avianDescription" : "Oooh, I know this banner! I really should meet up with the monsters again!",
+    "floranDescription" : "Ssssilky banner. Ourssss are better.",
+    "glitchDescription" : "Interesting. The rune on this banner appears to carry signals of hope.",
+    "humanDescription" : "Hm, this banner looks so oddly familiar...",
+    "hylotlDescription" : "This banner looks as soft as the fur of those goats bearing it's emblem.",
+    "novakidDescription" : "A mighty fine banner. YEEEHAWWW PARDNER.",
+    "dreemurrersDescription" : "A banner with the logo that has shaped our past, present, and future.",
+  
+    "inventoryIcon" : "deltarunebannericon.png",
+    "orientations" : [
+      {
+        "dualImage" : "deltarunebanner.png:<color>",
+        "imagePosition" : [-8, -32],
+  
+        "spaceScan" : 0.1,
+        "bgAnchors" : [ [-1, 0], [0, 0], [1, 0] ]
+      },
+      {
+        "dualImage" : "deltarunebanner.png:<color>",
+        "imagePosition" : [-8, -32],
+  
+        "spaceScan" : 0.1,
+        "fgAnchors" : [ [-1, 1], [0, 1], [1, 1] ]
+      }
+    ]
+  }
