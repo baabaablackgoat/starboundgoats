@@ -22,6 +22,7 @@
   "humanDescription" : "This station allows me to communicate with ASRIEL.",
   "hylotlDescription" : "This console allows me to communicate with ASRIEL.",
   "novakidDescription" : "This here station let's me talk with ASRIEL.",
+  "dreemurrersDescription" : "My guide on my space travels, ASRIEL. I hope he's okay.",
 
   "inventoryIcon" : "dreemurrerstechstationicon.png",
   "orientations" : [
@@ -51,18 +52,18 @@
   "dialog" : {
     "wakeUp" : [
       [ "Rebooting...", "/ai/portraits/dreemurrersportrait.png:unique.1" ],
-      [ "I am A.S.R.I.E.L, your Artificial Ship-based Reconstructed Intelligent Earth Lifeform. I manage the maintainance of your ship.",       "/ai/portraits/dreemurrersportrait.png:talk.0" ],
-      [ "I am also programmed to offer you information and advice.", "/ai/portraits/dreemurrersportrait.png:talk.1" ],
-      [ "Earth was attacked by an unknown force, and was subsequently annihilated.", "/ai/portraits/dreemurrersportrait.png:talk.0" ],
-      [ "The ship's navigation systems were damaged in our escape. Our location is currently unknown.", "/ai/portraits/dreemurrersportrait.png:talk.1" ]
+      [ "Howdy! I'm A.S.R.I.E.L, your Artificial Ship-based Reconstructed Intelligent Earth Lifeform. I'm the one responsible for taking care of your ship!",       "/ai/portraits/dreemurrersportrait.png:talk.0" ],
+      [ "I also know a few things about this world, so feel free to ask me when you need help!", "/ai/portraits/dreemurrersportrait.png:talk.1" ],
+      [ "When you launched last, though, some of my circuits were fried, and I lost memory of why we departed...", "/ai/portraits/dreemurrersportrait.png:talk.0" ],
+      [ "Not just that, our navigation is down, too. I don't know where we are right now. I'm sorry...", "/ai/portraits/dreemurrersportrait.png:talk.1" ]
     ],
     "wakePlayer" : [
-      [ "System is down, please reboot.", "/ai/portraits/dreemurrersportrait.png:unique.1"],
-      [ "Please reboot the system.", "/ai/portraits/dreemurrersportrait.png:unique.1"],
-      [ "Reboot process remains uninitiated.", "/ai/portraits/dreemurrersportrait.png:unique.1"],
-      [ "To make use of your A.S.R.I.E.L please reboot.", "/ai/portraits/dreemurrersportrait.png:unique.1" ],
-      [ "Rebooting has shown to improve ship interaction satisfaction levels by 73%.", "/ai/portraits/dreemurrersportrait.png:unique.1"],
-      [ "Rebooting requires a conscious entity to interact with the A.S.R.I.E.L console.", "/ai/portraits/dreemurrersportrait.png:unique.1" ]
+      [ "W-where am I?", "/ai/portraits/dreemurrersportrait.png:unique.1"],
+      [ "Someone, please, help me!", "/ai/portraits/dreemurrersportrait.png:unique.1"],
+      [ "It's so dark...", "/ai/portraits/dreemurrersportrait.png:unique.1"],
+      [ "Can somebody hear me?", "/ai/portraits/dreemurrersportrait.png:unique.1" ],
+      [ "I-I'm so alone...", "/ai/portraits/dreemurrersportrait.png:unique.1"],
+      [ "I-I'm so afraid...", "/ai/portraits/dreemurrersportrait.png:unique.1" ]
     ]
   },
 
