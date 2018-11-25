@@ -1,91 +1,33 @@
 {
   "itemName" : "bayonetcharger",
-  "price" : 900,
-  "level" : 5,
+  "price" : 990,
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "Deactivated rifle modified for close combat.",
+  "description" : "CHAAAAARGE!",
   "shortdescription" : "Bayonet Charger",
   "tooltipKind" : "sword",
   "category" : "spear",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],
 
-  "inventoryIcon" : "bayonetcharger.png",
-
-  "animation" : "/items/active/weapons/melee/spear/spear.animation",
-  "animationParts" : {
-    "handle" : "",
-    "blade": "/items/active/weapons/dreemurrer/bayonetcharger.png"
-  },
-  "animationCustom" : {
-    "sounds" : {
-      "fire" : [ "/sfx/melee/swing_spear.ogg" ]
-    }
-  },
+  "animation" : "spear.animation",
+  "animationParts" : { },
+  "animationCustom" : { },
 
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
 
   "aimOffset" : -1.0,
+
   "primaryAbilityType" : "spearstab",
   "primaryAbility" : {
-    "fireTime" : 0.9,
-    "baseDps" : 10.5,
+    "fireTime" : [0.83, 1.11],
+    "baseDps" : [9.5, 10.5],
     "damageConfig" : {
-      "damageSourceKind" : "spear",
-      "statusEffects" : [ ],
-      "knockbackMode" : "aim",
-      "knockback" : 30,
-	"timeoutGroup" : "primary",
-       "stances" : {
-    "idle" : {
-      "armRotation" : -90,
-      "weaponRotation" : 0,
-      "twoHanded" : false,
-      "weaponOffset" : [0, 0.5],
-
-      "allowRotate" : true,
-      "allowFlip" : true
-    },
-    "windup" : {
-      "duration" : 0.1,
-      "armRotation" : -110,
-      "weaponRotation" : 20,
-      "twoHanded" : true,
-      "weaponOffset" : [0, 0.5],
-
-      "allowRotate" : false,
-      "allowFlip" : false
-    },
-    "fire" : {
-      "duration" : 0.3,
-      "armRotation" : -20,
-      "weaponRotation" : -70,
-      "twoHanded" : true,
-      "weaponOffset" : [0, 2.5],
-
-      "allowRotate" : false,
-      "allowFlip" : false
-    },
-    "hold" : {
-      "armRotation" : -30,
-      "weaponRotation" : -60,
-      "twoHanded" : true,
-      "weaponOffset" : [0, 2.0],
-
-      "allowRotate" : true,
-      "allowFlip" : true
-    }
-  }
-
-    },
-    "holdDamageMultiplier" : 0.1,
-    "holdDamageConfig" : {
-      "timeoutGroup" : "hold",
-      "timeout" : 0.5
+      "damageSourceKind" : "firespear",
+      "knockbackRange" : [25, 35]
     }
   },
+  "altAbilityType" : "rocketspear",
 
-    "altAbilityType" : "parry",
-    "builder" : "/items/buildscripts/buildunrandweapon.lua"
+  "builder" : "/items/buildscripts/buildweapon.lua"
 }
