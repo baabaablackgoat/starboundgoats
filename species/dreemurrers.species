@@ -83,7 +83,10 @@
       { "item" : "dreemurrersoutfit4legs" },
       { "item" : "dreemurrersdynastyrobechest"},
       { "item" : "dreemurrersdynastyrobelegs"},
-      { "item" : "dreemurrersshiftedscarf"}
+      { "item" : "dreemurrersshiftedscarf"},
+      { "item" : "dreemurrersworkerhead"},
+      { "item" : "dreemurrersworkerchest"},
+      { "item" : "dreemurrersworkerlegs"}
 	  ]
   },
   
