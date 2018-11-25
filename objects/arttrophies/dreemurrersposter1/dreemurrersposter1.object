@@ -1,0 +1,34 @@
+{
+  "objectName" : "dreemurrersposter1",
+  "colonyTags" : ["dreemurrers","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "An old poster promoting space exploration.",
+  "shortdescription" : "To Space And Beyond",
+  "race" : "dreemurrers",
+  "category" : "decorative",
+  "price" : 1337,
+  "printable" : false,
+
+  "apexDescription" : "To the stars, and beyond!",
+  "avianDescription" : "I'm glad space travel has come this far since then.",
+  "floranDescription" : "Floran confusssed by writing. Whatssss thisss mean?",
+  "glitchDescription" : "Translating. Motivated to explore universe.",
+  "humanDescription" : "I don't understand cyrillic writing.",
+  "hylotlDescription" : "I wish I could understand this, it looks so motivational!",
+  "novakidDescription" : "Now hol' up, huckleberry. This here rodeo ain't russian.",
+  "dreemurrersDescription" : "This used to be plastered all over our home. I wish we could return...",
+
+  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "orientations" : [
+    {
+      "image" : "dreemurrersposter1.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

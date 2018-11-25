@@ -1,0 +1,34 @@
+{
+  "objectName" : "dreemurrerspainting",
+  "colonyTags" : ["dreemurrers","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "The portrait of the former peaceful king of the Boss Monsters.",
+  "shortdescription" : "In Memoriam",
+  "race" : "dreemurrers",
+  "category" : "decorative",
+  "price" : 1337,
+  "printable" : false,
+
+  "apexDescription" : "This reminds me of a time where peace reigned across the Apex.",
+  "avianDescription" : "What a remarkable painting. A stunning person, drawn by a stunning artist.",
+  "floranDescription" : "Floran not interessssted in ssssingle person. Floransss united.",
+  "glitchDescription" : "Impressive. This painting is majestic yet peaceful.",
+  "humanDescription" : "He looks like someone we've killed before.",
+  "hylotlDescription" : "For what great deeds is this man responsible?",
+  "novakidDescription" : "This feller's lookin mighty fine.",
+  "dreemurrersDescription" : "One of our early leaders, who led us with kindness and courage.",
+
+  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "orientations" : [
+    {
+      "image" : "dreemurrerspainting.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
