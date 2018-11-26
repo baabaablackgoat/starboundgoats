@@ -1,0 +1,34 @@
+{
+  "objectName" : "dreemurrersposter4",
+  "colonyTags" : ["dreemurrers","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "A poster depicting one of the earliest known symbols of monsterkind.",
+  "shortdescription" : "The Crest of Peace",
+  "race" : "dreemurrers",
+  "category" : "decorative",
+  "price" : 1337,
+  "printable" : false,
+
+  "apexDescription" : "If I remember correctly, this is the first known symbol of Monsters.",
+  "avianDescription" : "This seems royal! Must be from the early Bossmonster's days.",
+  "floranDescription" : "Lookssss ssshinyyy...",
+  "glitchDescription" : "Curious. According to my database, this is the work of Monsters.",
+  "humanDescription" : "A crest. Don't know much about it.",
+  "hylotlDescription" : "This looks so fancy! I wonder why the Monsters stopped using this...",
+  "novakidDescription" : "Now hol' up. This oughtta be one of them bourgeoisie symbols.",
+  "dreemurrersDescription" : "Our first crest was barely used any more after the Delta Rune was introduced.",
+
+  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "orientations" : [
+    {
+      "image" : "dreemurrersposter4.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

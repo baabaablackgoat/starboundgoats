@@ -1,0 +1,34 @@
+{
+  "objectName" : "dreemurrersposter5",
+  "colonyTags" : ["dreemurrers","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "A poster showing an early image of the small planes Monsters enjoy flying in.",
+  "shortdescription" : "Takeoff",
+  "race" : "dreemurrers",
+  "category" : "decorative",
+  "price" : 1337,
+  "printable" : false,
+
+  "apexDescription" : "Those old planes look like they're fun to fly.",
+  "avianDescription" : "I would love to fly in one of these once!",
+  "floranDescription" : "Floran dreamssss of flying!",
+  "glitchDescription" : "Impressed. Slick design with strong functionality.",
+  "humanDescription" : "I've never been a fan of old planes. They look like they'd fall apart in an instant.",
+  "hylotlDescription" : "This looks amazing, but I think I'll pass. Heights freak me out.",
+  "novakidDescription" : "Now THIS. THIS right here be a majestic flyin machine.",
+  "dreemurrersDescription" : "Sure, the planes may be dated in the space age, but they sure fly like a charm.",
+
+  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "orientations" : [
+    {
+      "image" : "dreemurrersposter5.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "objectName" : "dreemurrersposter2",
+  "colonyTags" : ["dreemurrers","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "An old poster of the Boss Monsters, united under their Tricolore of Peace.",
+  "shortdescription" : "United In Peace",
+  "race" : "dreemurrers",
+  "category" : "decorative",
+  "price" : 1337,
+  "printable" : false,
+
+  "apexDescription" : "I'm still astounded that Monsters wielded weapons without causing harm to others.",
+  "avianDescription" : "This poster feels so wierd, considering how peaceful the monsters are...",
+  "floranDescription" : "Floransss no like gunsss. Sssspearssss!",
+  "glitchDescription" : "Astonished. Depiction of an old-time rifle in modern ages.",
+  "humanDescription" : "This looks like a bad promotion.",
+  "hylotlDescription" : "The weaponry looks like it somewhat matches ours.",
+  "novakidDescription" : "Now that baby right there is what I call a real gun, mate.",
+  "dreemurrersDescription" : "Despite our weaponry, our leaders never intended to use them in warfare.",
+
+  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "orientations" : [
+    {
+      "image" : "dreemurrersposter2.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

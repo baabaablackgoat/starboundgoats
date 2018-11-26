@@ -1,0 +1,34 @@
+{
+  "objectName" : "dreemurrersposter6",
+  "colonyTags" : ["dreemurrers","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "An old poster with the lyrics of an old monster lullaby written on them.",
+  "shortdescription" : "Memories",
+  "race" : "dreemurrers",
+  "category" : "decorative",
+  "price" : 1337,
+  "printable" : false,
+
+  "apexDescription" : "What a soothing lullaby.",
+  "avianDescription" : "How calm... just like I remember thoze fuzzballs.",
+  "floranDescription" : "Floransss don't sssing sssongs. Floransss sssleeep to sssound of ssspears.",
+  "glitchDescription" : "Relaxed. Wonderful, slow lullaby for sweet dreams.",
+  "humanDescription" : "Hm. These monster melodies really are peaceful.",
+  "hylotlDescription" : "*happy humming*",
+  "novakidDescription" : "Darn, this is puttin some tears in me eyes.",
+  "dreemurrersDescription" : "*mumbles* \"Don't forget, I'm with you in the dark...\"",
+
+  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "orientations" : [
+    {
+      "image" : "dreemurrersposter6.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
