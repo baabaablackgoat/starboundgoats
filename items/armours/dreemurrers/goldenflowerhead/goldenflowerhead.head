@@ -11,9 +11,5 @@
 
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
-  "mask" : "mask.png",
-
-  "colorOptions" : [
-    // It's called golden flowers for a reason, do not paint it.
-  ]
+  "mask" : "mask.png"
 }
