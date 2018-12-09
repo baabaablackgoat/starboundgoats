@@ -86,7 +86,9 @@
       { "item" : "dreemurrersshiftedscarf"},
       { "item" : "dreemurrersworkerhead"},
       { "item" : "dreemurrersworkerchest"},
-      { "item" : "dreemurrersworkerlegs"}
+      { "item" : "dreemurrersworkerlegs"},
+      { "item" : "goldenflowerhead" },
+      { "item" : "asgorecape" }
 	  ]
   },
   

@@ -1,0 +1,19 @@
+{
+  "itemName" : "goldenflowerhead",
+  "price" : 100,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "Send flowers as we depart.",
+  "shortdescription" : "Golden Flower",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    // It's called golden flowers for a reason, do not paint it.
+  ]
+}

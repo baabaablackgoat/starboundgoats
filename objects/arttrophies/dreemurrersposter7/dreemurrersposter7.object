@@ -1,0 +1,34 @@
+{
+  "objectName" : "dreemurrersposter7",
+  "colonyTags" : ["dreemurrers","pretty","valuable"],
+  "rarity" : "Rare",
+  "description" : "An old informational poster about the history of war between Monsters and Humans.",
+  "shortdescription" : "War Never Changes",
+  "race" : "dreemurrers",
+  "category" : "decorative",
+  "price" : 1337,
+  "printable" : false,
+
+  "apexDescription" : "It must be within the human nature to seek war at all costs.",
+  "avianDescription" : "I, uh... I might need a moment. That's tragic...",
+  "floranDescription" : "Floransss like thisss! WARSSSS!",
+  "glitchDescription" : "Saddened. Boss Monster history has been filled with human agression.",
+  "humanDescription" : "... No comment.",
+  "hylotlDescription" : "...I never knew it was this bad...",
+  "novakidDescription" : "...Whoa, the wild west isn't that long ago after all, innit.",
+  "dreemurrersDescription" : "When we took off to the stars, noone expected that we'd lose our home...",
+
+  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "orientations" : [
+    {
+      "image" : "dreemurrersposter7.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

@@ -1,21 +1,21 @@
 {
-  "itemName" : "nightarbigshield",
-  "level" : 6,
-  "price" : 1200,
+  "itemName" : "dreemurrersshield",
+  "level" : 3,
+  "price" : 1000,
   "maxStack" : 1,
   "rarity" : "legendary",
   "category" : "shield",
-  "description" : "A large Nightar shield",
-  "shortdescription" : "Large Nightar Shield",
+  "description" : "A bleaty shield.",
+  "shortdescription" : "Dreemurrers Shield",
   "tooltipKind" : "Shield",
   "twoHanded" : false,
   "itemTags" : ["shield"],
 
-  "inventoryIcon" : "images/nightarshield/nightarbigshield.png:nearidle",
+  "inventoryIcon" : "images/dreemurrersshield/dreemurrersshield.png:nearidle",
 
   "animation" : "shield.animation",
   "animationParts" : {
-    "shield" : "images/nightarshield/nightarbigshield.png"
+    "shield" : "images/dreemurrersshield/dreemurrersshield.png"
   },
   "animationCustom" : {
     "sounds" : {
@@ -31,8 +31,8 @@
   "minActiveTime" : 0.2,
 
   "forceWalk" : true,
-  "baseShieldHealth" : 45,
-  "cooldownTime" : 0.7,
+  "baseShieldHealth" : 30,
+  "cooldownTime" : 0.45,
 
   "perfectBlockDirectives" : "?border=2;AACCFFFF;00000000",
   "perfectBlockTime" : 0.2,
