@@ -18,7 +18,7 @@
   "novakidDescription" : "...Whoa, the wild west isn't that long ago after all, innit.",
   "dreemurrersDescription" : "When we took off to the stars, noone expected that we'd lose our home...",
 
-  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "inventoryIcon" : "dreemurrersposter7icon.png",
   "orientations" : [
     {
       "image" : "dreemurrersposter7.png:<color>",

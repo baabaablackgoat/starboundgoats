@@ -18,7 +18,7 @@
   "novakidDescription" : "Now hol' up, huckleberry. This here rodeo ain't russian.",
   "dreemurrersDescription" : "This used to be plastered all over our home. I wish we could return...",
 
-  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "inventoryIcon" : "dreemurrersposter1icon.png",
   "orientations" : [
     {
       "image" : "dreemurrersposter1.png:<color>",

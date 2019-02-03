@@ -18,7 +18,7 @@
   "novakidDescription" : "This feller's lookin mighty fine.",
   "dreemurrersDescription" : "One of our early leaders, who led us with kindness and courage.",
 
-  "inventoryIcon" : "dreemurrerspaintingiconplaceholder.png",
+  "inventoryIcon" : "dreemurrerspaintingicon.png",
   "orientations" : [
     {
       "image" : "dreemurrerspainting.png:<color>",
