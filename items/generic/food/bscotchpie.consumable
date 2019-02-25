@@ -5,7 +5,7 @@
   "category" : "preparedFood",
   "inventoryIcon" : "bscotchpie.png",
   "description" : "A lovely smelling pie!",
-  "shortdescription" : "Butterscotch Cinnimon Pie",
+  "shortdescription" : "Butterscotch Cinnamon Pie",
   "effects" : [ [
     {
         "effect" : "maxenergyscalingboostfood",
