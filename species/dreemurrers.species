@@ -18,9 +18,10 @@
       { "item" : "altflagdreemurrers" },
 	    
 // Anvil
-      { "item" : "humantier1head" },
-      { "item" : "humantier1chest" },
-      { "item" : "humantier1pants" },
+      { "item" : "bossmonstertier1head" },
+      { "item" : "bossmonstertier1chest" },
+      { "item" : "bossmonstertier1pants" },
+      { "item" : "detectivespecial" },
       { "item" : "humantier2head" },
       { "item" : "humantier2chest" },
       { "item" : "humantier2pants" },
