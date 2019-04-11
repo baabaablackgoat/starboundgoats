@@ -1,0 +1,18 @@
+{
+    "id" : "bossmonsterhistory2",
+	"title" : "Unpublished Manuscript",
+	"description" : "The title reads \"An Enquiry Concerning Human Psychology\" ",
+	"icon" : "bmcodexspiral.png",
+	"contentPages" : [
+		"The other peoples that we have found among the stars, even if their capacity for brutishness far exceed that of the humans, are on the whole much more predictable. It is much easier to determine why they fight, and how peace may be achieved in the future. For example, most violence among the Apex are the result of political unrest; The avians, religious strife; the Florans, the awe of power at display. And so on. Remove the underlying casus belli, and the vast majority of conflict likewise disappears.",
+		"On the other hand, the humans have fought wars over all of these reasons, with the exception of programmed limits as with the Glitch. (One wonders if the other races have modeled their cultures after distinct moments of human history.)\n \nIt is for this reason they believe that they understand the other races, rightfully claiming that as a species, they have already dealt with the same problems that the others face. (As if social conflict were like failed romances!)",
+		"Perhaps that is why they see themselves as parental figures to the rest of the world and established themselves as the eldest child in the unsupervised nursery that is the Terrene Protectorate.\n \nThis is a curious sentiment. One might think that having had many distinct problems as opposed to one is a sign of chronic wickedness than wisdom.\n \nAnd indeed, milennia of conflict does not seem to have made the humans much wiser in this respect.",
+		"Even to the present day, human bandits and the emergence of the Occasus Cult demonstrate that, far from being leaders, humanity still has not matured from self-undermining conflict. One would think that the humans would have realized this and willingly submit to some sort of limitation on their powers, and allow themselves to be controlled, disciplined, or pacified. Even the most rebellious children retreat to their parents when they are in pain.",
+		"But ironically, no other species is as adamant about freedom and dignity than humanity. Freedom and autonomy is valued at any cost; even the freedom to be ignorant. They would tear a paradise apart if it meant that they could not be free within it.",
+		"Perhaps that is the underlying principle of human conflict. What if to a human, politics, religion, social standing and power are ultimately just expressions of their freedom? To choose between any one of these \"things-to-live-for\" and take it up as a cause, perchance to die for it?\n \nIt is for this reason that I pity humanity."
+	],
+	"itemConfig" : {
+		"rarity" : "common",
+		"price" : 50
+	}
+}

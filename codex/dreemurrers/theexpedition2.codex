@@ -1,13 +1,16 @@
 {
 	"id" : "theexpedition2",
-	"title" : "The Expedition, Part II",
-	"description" : "A tattered notebook, bearing the Delta Rune on it's cover.",
-	"icon" : "dreemurrercover2.png",
+	"title" : "The Expedition to the Stars, Part II",
+	"description" : "The confusedly written memoir of a boss monster.",
+	"icon" : "bmcodex1.png",
 	"contentPages" : [
-		"Still clinging to hope, we started an expedition that would bring back conclusive evidence of the fate of monsterkind on Earth. Assembling a team of researchers and navigators, we placed them on a ship equipped with a prototype FTL engine and sent them across a vast ocean of worlds.",
+		"Undeterred, we launched an expedition that would bring back conclusive evidence of the fate of monsterkind on Earth.\n \nAssembling a team of researchers and navigators, we placed them on a ship equipped with a prototype FTL engine and sent them across a vast ocean of worlds.",
+		
 		"Their objective was to find Earth, and find out whatever happened to the Dreemurr dynasty and its subjects. Drawing from our vast historical records, we thought this would be a simple task of simply working out the coordinates of Earth and then scanning what was historically monster territory on Earth.",
-		"Optimistic that the evidence would prove our fears to be fancies, we celebrated as our crew flew stealthily across the galaxy, and we waited patiently for their return. But as the weeks and months passed, we began to wonder why the mission was taking longer than anticipated.",
-		"Our optimism began to fade into despair, and we worried for the fate of our crew. We dared not to try and contact them, however, in the fear that the signal may be intercepted, jeopardizing not only the crew’s stealth, but perhaps even our own homeworld as well."
+		
+		"Optimistic that the evidence would prove our fears to be fancies, we celebrated as our crew flew stealthily across the galaxy, and we waited anxiously for their return.\n \nBut as the weeks and months passed, we began to wonder why the mission was taking much longer than anticipated.",
+
+		"Our optimism began to fade, and we worried for the fate of our crew. We dared not to try and contact them, however, in the fear that the signal may be intercepted, jeopardizing not only the crew’s safety, but perhaps even our own.\n \nSo we waited, dutifully counting the days on our calendars, hoping they would return when the time was right."
 	],
 	"itemConfig" : {
 		"rarity" : "common",

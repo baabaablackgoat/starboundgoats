@@ -1,13 +1,16 @@
 {
 	"id" : "theexpedition1",
-	"title" : "The Expedition, Part I",
-	"description" : "A tattered notebook, bearing the Delta Rune on it's cover.",
-	"icon" : "dreemurrercover1.png",
+	"title" : "The Expedition to the Stars, Part I",
+	"description" : "The confusedly written memoir of a boss monster.",
+	"icon" : "bmcodex0.png",
 	"contentPages" : [
-		"It is no secret among our kind that our relation to humans has, so far, been one of fear and enmity.\nAll of the historical records before our exile across the stars agree on this one fact: the humans began the war with the intention of eradicating our people entirely.",
-		"Until recently, it was fashionable to doubt the accuracy of these historical records as exaggerations of a mythological kind.\nFiguring that no society could embody such cruelty and not disintegrate into a brutish disorder, the hope for a new peace between the humans and us seemed very possible to us.",
-		"When the first of us flew back into the stars in search of our lost history, we found that the humans had also extended their presence to space.\nWe kept hidden, wary of the potential of human violence. But from the evidence that our explorers had found, it seemed that the humans had forgotten all about us, and were on the whole, not the brutes that we had made them out to be.",
-		"At first, we were excited that this could mean that the old dust could be swept aside to give way to a new friendship. We were almost ready to greet the humans and establish relations, until one of us asked:\n\"If the humans have forgotten all about us, what would it mean for all the monsters that were left behind on Earth?\""
+		"It is no secret among our kind that our relation to humans has, so far, been one of fear and enmity. All of the historical records before our exile across the stars agree on this one fact: the humans began the war with the intention of eradicating our people entirely.\n \nUntil recently, it was fashionable to dismiss the accuracy of these historical records as exaggerations of a distinctly mythological sort.",
+		
+		"Figuring that no society could embody such cruelty and not disintegrate into brutish disorder, the hope for a renewed peace between the humans and us seemed very possible to us.\n \nWhen the first of us flew back into the stars in search of lost history, we found that the humans had also extended their presence to space.",
+		
+		"We kept hidden, wary of the potential of human violence. But from the evidence that our explorers had found, it seemed that the humans had forgotten all about us, and were on the whole, not the brutes that we had made them out to be.\n \nContrary to what the historical records seemed to imply, the humans had befriended most of the other races throughout the galaxy and had formed a Terrene Protectorate to promote unity.",
+		
+		"At first, we were relieved that this could mean that the old dust could be swept aside to give way to a new friendship. We were almost ready to greet the humans and establish relations, until one of us asked:\n \n\"If the humans have forgotten all about us, what would it mean for all the monsters that were left behind on Earth? What happened to them?\""
 	],
 	"itemConfig" : {
 		"rarity" : "common",
