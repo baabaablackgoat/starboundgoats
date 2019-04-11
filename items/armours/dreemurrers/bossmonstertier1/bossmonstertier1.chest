@@ -1,20 +1,52 @@
 {
-  "itemName" : "test1helmet",
-  "price" : 2500,
-  "inventoryIcon" : "icons.png:head",
+  "itemName" : "bossmonstertier1chest",
+  "price" : 800,
+  "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Rare",
-  "category" : "headwear",
-  "description" : "The funny helmet of a Bossmonster Constable.",
-  "shortdescription" : "Constable's Helmet",
+  "category" : "chestwear",
+  "description" : "This imposing overcoat is actually quite warm and cozy.",
+  "shortdescription" : "Constable's Overcoat",
   "tooltipKind" : "armor",
 
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
-  "mask" : "mask.png",
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+  "level" : 1,
+	"leveledStatusEffects" : [
+		{
+			"levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+			"stat" : "powerMultiplier",
+			"baseMultiplier" : 1.25
+		},
+		{
+			"levelFunction" : "standardArmorLevelProtectionMultiplier",
+			"stat" : "protection",
+			"amount" : 0.5
+		},
+		{
+			"levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+			"stat" : "maxEnergy",
+			"amount" : 5
+		},
+		{
+			"levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+			"stat" : "maxHealth",
+			"amount" : 5
+		}
+  ],
+  "itemTags" : [ "tier1armour" ],
   "colorOptions" : [
-    // TAR
-    { "ffca8a" : "66538d", "e0975c" : "4b3b6d", "a85636" : "2e1e3b", "6f2919" : "080207" },
+    // IRON
+    { "ffca8a" : "a2bcc8", "e0975c" : "608ca0", "a85636" : "405d6a", "6f2919" : "24333a" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

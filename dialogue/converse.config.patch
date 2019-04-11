@@ -4,12 +4,12 @@
 		"path": "/greeting/dreemurrer",
 		"value": {
 			"default" : [
-				"Howdy!"
-				"Greetings."
+				"Howdy!",
+				"Greetings.",
 				"How do you do?"
 			],
 			"avian" : [
-				"Howdy there! feathery bird!"
+				"Howdy there! feathery bird!",
 				"Cheerful day huh?"
 			],
 			"floran" : [
@@ -17,7 +17,7 @@
 				"Please don't hurt me."
 			],
 			"human" : [
-				"Howdy there!"
+				"Howdy there!",
 				"Greetings... human"
 			],
 			"hylotl" : [
@@ -28,13 +28,13 @@
 			],
 			"novakid" : [
 				"Yee Haw!",
-				"You remind me of someone..."
+				"You remind me of someone...",
 				"Howdy, glowing starstuff."
 			],
 			"avali" : [
-				"Howdy, feathered bird."
+				"Howdy, feathered bird.",
 				"Ah, it's a pleasure to meet you."
-			],
+			]
 		}
 	},
 	{
@@ -42,10 +42,10 @@
 		"path": "/converse/dreemurrer",
 		"value": {
 			"default" : [
-				"",
+				""
 			],
 			"apex" : [
-				"My mother said to me, "the struggle is long, but hope is longer." You'll be fine.",
+				"My mother said to me, \"the struggle is long, but hope is longer.\" You'll be fine.",
 				"I've always wanted to know... how far does Big Ape see?",
 				"How are things holding up for you?"
 			],
@@ -99,7 +99,7 @@
 		"path": "/converse/avian/dreemurrer",
 		"value": [
 			"Do you think the angel in the delta rune is Kluex?",
-			"I heard the Humans wrote a prophecy about your people, what did you think of it?",
+			"I heard the Humans wrote a prophecy about your people, what did you think of it?"
 		]
 	},
 	{
@@ -113,7 +113,7 @@
 		"op": "add",
 		"path": "/converse/glitch/dreemurrer",
 		"value": [
-			"Curious. Please explain this unit named 'Mettaton' in the prophecy of your people."
+			"Curious. Please explain this unit named 'Mettaton' in the prophecy of your people.",
 			""
 		]
 	},
@@ -136,7 +136,7 @@
 		"path": "/converse/hylotl/dreemurrer",
 		"value": [
 			"I appreciate your admiration for us, but you don't have to observe what we do down to the very atoms.",
-			"I say with a puffed chest that us Hylotls are at the forefront of culture and science!",
+			"I say with a puffed chest that us Hylotls are at the forefront of culture and science!"
 		]
 	},
 	{
