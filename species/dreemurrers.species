@@ -7,7 +7,7 @@
   },
   "nameGen" : [ "/species/dreemurrersmalenamegen.config:names", "/species/dreemurrersfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/dreemurrershurt_male1.ogg", "/sfx/humanoid/dreemurrershurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Underwear", "Hair colour", "Shirt colour", "Legwear colour", "Dreemurrer", "Personality" ],
+  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Eye colour", "Hair colour", "Shirt colour", "Legwear colour", "Dreemurrer", "Personality" ],
   "skull" : "/humanoid/dreemurrers/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffea63FF?replace=31a6ffFF=f5bc00FF",
   "defaultBlueprints" : {
