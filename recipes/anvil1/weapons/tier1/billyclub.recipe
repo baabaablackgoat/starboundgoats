@@ -1,0 +1,10 @@
+{
+    "input" : [
+      { "item" : "ironbar", "count" : 2 },
+      { "item" : "darkwoodmaterial", "count" : 10 },
+      { "item" : "plantfibre", "count" : 10}
+    ],
+    "duration" : 5,
+    "output" : { "item" : "billyclub", "count" : 1 },
+    "groups" : [ "craftinganvil", "weapons", "all" ]
+  }

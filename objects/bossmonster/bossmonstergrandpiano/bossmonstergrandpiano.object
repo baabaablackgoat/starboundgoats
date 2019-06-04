@@ -1,0 +1,41 @@
+{
+    "objectName" : "bossmonstergrandpiano",
+    "colonyTags" : ["apex","apexvillage","musical"], //todo
+    "rarity" : "Common",
+    "category" : "decorative",
+    "price" : 1000,
+    "description" : "The piano is built in such a way that the wood housing subtly vibrates along with the strings.",
+    "shortdescription" : "Baby Grand Piano",
+    "race" : "dreemurrer",
+  
+    "apexDescription" : "todo",
+    "avianDescription" : "todo",
+    "floranDescription" : "todo",
+    "glitchDescription" : "todo",
+    "humanDescription" : "todo",
+    "hylotlDescription" : "todo",
+    "novakidDescription" : "todo",
+  
+    "inventoryIcon" : "bossmonstergrandpianoicon.png",
+    "orientations" : [
+      {
+        "dualImage" : "bossmonstergrandpiano.png:<color>",
+        "imagePosition" : [-20, 0],
+        "frames" : 1,
+        "animationCycle" : 0.5,
+  
+        "spaceScan" : 0.1,
+        "anchors" : [ "bottom" ]
+  
+      }
+    ],
+  
+    "animation" : "/objects/noisy/noisy.animation",
+  
+    "scripts" : [
+      "/objects/noisy/noisy.lua"
+    ],
+  
+    "sounds" : [ "/sfx/objects/bossmonsterpiano1.ogg", "/sfx/objects/bossmonsterpiano2.ogg", "/sfx/objects/bossmonsterpiano3.ogg", "/sfx/objects/bossmonsterpiano4.ogg", "/sfx/objects/bossmonsterpiano5.ogg", "/sfx/objects/bossmonsterpiano6.ogg", "/sfx/objects/bossmonsterpiano7.ogg", "/sfx/objects/bossmonsterpiano8.ogg","/sfx/objects/bossmonsterpiano9.ogg" ]
+  }
+  

@@ -1,0 +1,42 @@
+{
+  "itemName" : "billyclub",
+  "price" : 1000,
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A constable's baton made of heavy, treated wood and reinforced with an iron core.",
+  "shortdescription" : "Constable's Billyclub",
+  "tooltipKind" : "sword",
+  "category" : "axe",
+  "twoHanded" : false,
+  "itemTags" : ["weapon","melee","axe"],
+
+  "inventoryIcon" : "billyclub.png",
+
+  "animation" : "/items/active/weapons/melee/axe/axe.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "billyclub.png"
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : ["/sfx/melee/bossmonsterswingclub.ogg"]
+    }
+  },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "axecleave",
+  "primaryAbility" : {
+    "fireTime" : 0.65,
+    "baseDps" : 14,
+    "damageConfig" : {
+      "knockbackRange" : 50
+    }
+  },
+
+  "altAbilityType" : "N/A",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

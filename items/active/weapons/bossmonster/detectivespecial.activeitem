@@ -38,7 +38,7 @@
     "class" : "GunFire",
 
     "fireTime" : 0.9,
-    "baseDps" : 20,
+    "baseDps" : 10,
     "energyUsage" : 23,
     "inaccuracy" : 0.035,
 
@@ -47,7 +47,7 @@
 
     "projectileType" : "bossmonsterrevolverbullet1",
     "projectileParameters" : {
-      "knockback" : 6
+      "knockback" : 10
     },
     "stances" : {
       "idle" : {
