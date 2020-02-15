@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "monsterwoodplanks",
+    "count" : 20
+  },
+  "groups" : [ "craftingfurniture", "materials", "all" ],
+  "duration" : 0.5
+}

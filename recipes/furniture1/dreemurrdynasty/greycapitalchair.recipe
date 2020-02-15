@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "monsterwoodplanks", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "greycapitalchair",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

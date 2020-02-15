@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "cobblestone", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "greycapitalbricks",
+    "count" : 10
+  },
+  "groups" : [ "craftingfurniture", "materials", "all" ],
+  "duration" : 0.25
+}
