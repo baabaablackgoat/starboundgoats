@@ -1,0 +1,25 @@
+{
+  "materialId" : 3089,
+  "materialName" : "monsterwoodplanks",
+  "particleColor" : [176, 174, 168, 255],
+  "itemDrop" : "monsterwoodplanks",
+  "description" : "White planks, mostly used on Monsterkind houses.",
+  "shortdescription" : "Monster Wood Planks",
+  "glitchDescription" : "Curious. I'm detecting an unknow energy inside these planks. What's inside?",
+  "floranDescription" : "Magical plankssss!",
+  "novakidDescription" : "Hmmm, this doesn't look like it's completely natural.",
+  "footstepSound" : "/sfx/blocks/footstep_wood.ogg",
+  "health" : 2,
+  "category" : "materials",
+  "damageTable" : "/tiles/flammableDamage.config",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "monsterwoodplanks.png",
+    "variants" : 4,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 3230
+  }
+}

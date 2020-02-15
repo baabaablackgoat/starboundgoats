@@ -1,0 +1,24 @@
+{
+  "materialId" : 3087,
+  "materialName" : "greycapitalbricks",
+  "particleColor" : [176, 174, 168, 255],
+  "itemDrop" : "greycapitalbricks",
+  "shortdescription" : "Grey capital bricks",
+  "description" : "Small but perfectly formed bricks made from stone.",
+  "glitchDescription" : "Pleased. These bricks have been carefully formed and arranged.",
+  "floranDescription" : "Ssimple bricksss.",
+  "novakidDescription" : "Nice lookin' brickwork.",
+  "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
+  "health" : 9,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "greycapitalbricks.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "multiColored" : true,
+    "occludesBelow" : true,
+    "zLevel" : 2860
+  }
+}
