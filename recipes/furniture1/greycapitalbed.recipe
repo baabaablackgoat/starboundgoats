@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "darkwoodmaterial", "count" : 6 },
-    { "item" : "greydye", "count" : 3 }
-  ],
-  "output" : { "item" : "greycapitalbed", "count" : 1 },
-  "groups" : [ "craftingfurniture", "beds", "all" ]
-}
