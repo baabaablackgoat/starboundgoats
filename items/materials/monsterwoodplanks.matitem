@@ -1,0 +1,14 @@
+{
+  "itemName" : "monsterwoodplanks",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "monsterwoodplanks.png",
+  "shortdescription" : "Monster Wood Planks",
+  "description" : "White planks, mostly used on Monsterkind houses.",
+  "glitchDescription" : "Curious. I'm detecting an unknow energy inside these planks. What's inside?",
+  "floranDescription" : "Magical plankssss!",
+  "novakidDescription" : "Hmmm, this doesn't look like it's completely natural.",
+
+  "materialId" : 3089
+}

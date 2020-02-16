@@ -1,0 +1,14 @@
+{
+  "itemName" : "greycapitalbricks",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "greycapitalbricks.png",
+  "shortdescription" : "Grey capital bricks",
+  "description" : "Small but perfectly formed bricks made from stone.",
+  "glitchdescription" : "Pleased. These bricks have been carefully formed and arranged.",
+  "florandescription" : "Ssimple bricksss.",
+  "novakiddescription" : "Nice lookin' brickwork.",
+
+  "materialId" : 3087
+}
